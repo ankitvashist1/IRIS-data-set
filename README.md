@@ -10,8 +10,8 @@ This project is aimed to train a prediciton model to predict type of Iris plant.
 
 ### ***Description of Data Variables:***
 **Train Data:**
-| Variable | Definition |	         Key                       |
-| -------- | ---------- | ---------------------------------- |
+| Variable | Definition |
+| -------- | ---------- |
 | Sepal length| Numerical variable (Continuous)|
 | Sepal width | Numerical variable (Continuous)	  |
 |Petal length| Numerical variable (Continuous)|
